@@ -1,0 +1,14 @@
+.episode-details h1, p{
+    text-align: left !important;
+}
+
+.episode-details{
+    margin-top: 2rem;
+    width: 100%;
+    margin-left: 1rem;
+}
+
+.episode-details p{
+    margin-left: 2rem;
+    font-size: 20px;
+}
